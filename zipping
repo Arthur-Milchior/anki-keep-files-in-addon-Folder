@@ -1,0 +1,2 @@
+rm keepFiles.zip
+zip keepFiles.zip config.* *py  LICENSE *.md zipping --exclude \*~ \*zip
