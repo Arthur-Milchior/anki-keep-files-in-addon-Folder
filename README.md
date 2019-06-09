@@ -26,4 +26,4 @@ Copyright   | Arthur Milchior <arthur@milchior.fr>
 Based on    | Anki code by Damien Elmes <anki@ichi2.net>
 License     | GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html
 Source in   | https://github.com/Arthur-Milchior/anki-keep-files-in-addon-Folder
-Addon number| [???????](https://ankiweb.net/shared/info/???????)
+Addon number| [225953877](https://ankiweb.net/shared/info/225953877)
