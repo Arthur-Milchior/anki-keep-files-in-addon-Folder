@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "title": "Keep files git svn in add-on folders",
+  "properties": {
+    "base names": {
+      "type": "array",
+      "default": ["user_files", ".git", ".gitignore", ".svn"],
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
